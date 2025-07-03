@@ -1,16 +1,5 @@
 MIT License
 
-
----
-
-### ✅ What you should do:
-1. Save the above content to your existing `README.md`.
-2. Create a `requirements.txt` listing the used libraries (e.g., `pandas`, `scikit-learn`, `matplotlib`, `seaborn`, `imbalanced-learn`).
-3. Add or update the `LICENSE` file (if not already present).
-
-Let me know if you’d like help generating the `requirements.txt`, adding badges, or polishing any section further!
-::contentReference[oaicite:0]{index=0}
-
 Copyright (c) 2025 KodaliSuchitraKamala
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
